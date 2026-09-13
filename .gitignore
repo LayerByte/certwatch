@@ -1,0 +1,12 @@
+description.lua
+topics.lua
+.git/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.test
+coverage.out
+vendor/
+
