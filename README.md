@@ -1,9 +1,5 @@
 # Certwatch
 
-![Language](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Purpose](https://img.shields.io/badge/Purpose-Education-blue?style=flat-square)
-
 TLS certificate expiration checker.
 
 School Purpose Only.
@@ -124,7 +120,3 @@ Suggested checks before publishing changes:
 ## Disclaimer
 
 This project is for defensive learning, school assignments, and authorized administration. It does not include malware, credential theft, brute-force attacks, exploitation, payload delivery, persistence, bypass functionality, or unauthorized access functionality.
-
-## License
-
-Released under the MIT License.
